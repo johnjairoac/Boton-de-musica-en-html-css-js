@@ -10,3 +10,17 @@ Aclaro  esto se copia y se pega dentro de un proyecto que hagan "por ejemplo en 
 
 les dejo imagen de como se y un pagian web donde se ve como funciona.
 
+[![Repro-musi1.png](https://i.postimg.cc/GpT6L07P/Repro-musi1.png)](https://postimg.cc/d7v56fKD)
+
+
+
+
+
+[![Repro-musi2.png](https://i.postimg.cc/44QqNQ50/Repro-musi2.png)](https://postimg.cc/LhhNxfGk)
+
+
+
+
+https://codepen.io/johnjairoac/pen/OJBgOPZ
+
+
