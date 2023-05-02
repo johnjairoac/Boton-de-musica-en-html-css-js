@@ -15,10 +15,9 @@ les dejo imagen de como se y un pagian web donde se ve como funciona.
 
 
 
-
 [![Repro-musi2.png](https://i.postimg.cc/44QqNQ50/Repro-musi2.png)](https://postimg.cc/LhhNxfGk)
 
 
-
+Ejemplo del codigo.
 
 https://codepen.io/johnjairoac/pen/OJBgOPZ
