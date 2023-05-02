@@ -10,7 +10,7 @@ Aclaro  esto se copia y se pega dentro de un proyecto que hagan "por ejemplo en 
 
 3.Hacen lo mismo con js 
 
-les dejo imagen de como se y un pagian web donde se ve como funciona.
+Les dejo imagen de como se y un pagian web donde se ve como funciona.
 
 [![Repro-musi1.png](https://i.postimg.cc/GpT6L07P/Repro-musi1.png)](https://postimg.cc/d7v56fKD)
 
@@ -20,6 +20,6 @@ les dejo imagen de como se y un pagian web donde se ve como funciona.
 [![Repro-musi2.png](https://i.postimg.cc/44QqNQ50/Repro-musi2.png)](https://postimg.cc/LhhNxfGk)
 
 
-Ejemplo del codigo.
+Ejemplo del codigo. pueden visuaizar su funcionamiento aca.
 
 https://codepen.io/johnjairoac/pen/OJBgOPZ
